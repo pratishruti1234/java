@@ -13,9 +13,9 @@ public static void main (String args[])
       System.out.println("connection object is created");
             }
   cn.close();
-        }catch(SQLException se)
+        }catch(SQLException ss)
              {
-             se.printStackTrace();
+             ss.printStackTrace();
              }
      }
 }
