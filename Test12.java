@@ -21,5 +21,6 @@ public static void main(String args[])
             nst=nst-2;
         }
     }
+ System.out.println("HII sini");
 }
 }
